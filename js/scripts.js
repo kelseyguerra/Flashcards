@@ -1,95 +1,95 @@
 $(document).ready(function() {
   $("#Javascript").click(function() {
-    $("#Javascript-ans").show();
+    $("#Javascript-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Operators").click(function() {
-    $("#Operators-ans").show();
+    $("#Operators-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Variablenaming").click(function() {
-    $("#Variablenaming-ans").show();
+    $("#Variablenaming-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Variables").click(function() {
-    $("#Variables-ans").show();
+    $("#Variables-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Functions").click(function() {
-    $("#Functions-ans").show();
+    $("#Functions-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Methods").click(function() {
-    $("#Methods-ans").show();
+    $("#Methods-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Arguments").click(function() {
-    $("#Arguments-ans").show();
+    $("#Arguments-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Parameters").click(function() {
-    $("#Parameters-ans").show();
+    $("#Parameters-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Return").click(function() {
-    $("#Return-ans").show();
+    $("#Return-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Chainingmethods").click(function() {
-    $("#Chainingmethods-ans").show();
+    $("#Chainingmethods-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Strings").click(function() {
-    $("#Strings-ans").show();
+    $("#Strings-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Booleans").click(function() {
-    $("#Booleans-ans").show();
+    $("#Booleans-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Undefined").click(function() {
-    $("#Undefined-ans").show();
+    $("#Undefined-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Nan").click(function() {
-    $("#Nan-ans").show();
+    $("#Nan-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Escape").click(function() {
-    $("#Escape-ans").show();
+    $("#Escape-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Alert").click(function() {
-    $("#Alert-ans").show();
+    $("#Alert-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Comments").click(function() {
-    $("#Comments-ans").show();
+    $("#Comments-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Jquery").click(function() {
-    $("#Jquery-ans").show();
+    $("#Jquery-ans").slideToggle();
   });
 });
 $(document).ready(function() {
   $("#Attributes").click(function() {
-    $("#Attributes-ans").show();
+    $("#Attributes-ans").slideToggle();
   });
 });

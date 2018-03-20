@@ -3,14 +3,18 @@ body{
 }
 h1{
   text-align: center;
+  border: 5px solid skyblue;
+  padding: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 h2{
   text-align: center;
 }
 .well{
-  min-height: 350px;
+  min-height: 150px;
   background-color: aliceblue;
-  border-color: blue;
+  border-color: skyblue;
 }
 .clickable {
   cursor: crosshair;

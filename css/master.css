@@ -1,0 +1,77 @@
+body{
+  font-family: sans-serif;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+.well{
+  min-height: 350px;
+  background-color: aliceblue;
+  border-color: blue;
+}
+.clickable {
+  cursor: crosshair;
+}
+.clickable:hover {
+  color: lawngreen;
+}
+#Javascript-ans {
+  display: none;
+}
+#Operators-ans{
+  display: none;
+}
+#Variables-ans{
+  display: none;
+}
+#Variablenaming-ans{
+  display: none;
+}
+#Functions-ans{
+  display: none;
+}
+#Methods-ans{
+  display: none;
+}
+#Arguments-ans{
+  display: none;
+}
+#Parameters-ans{
+  display: none;
+}
+#Return-ans{
+  display: none;
+}
+#Chainingmethods-ans{
+  display: none;
+}
+#Strings-ans{
+  display: none;
+}
+#Booleans-ans{
+  display: none;
+}
+#Undefined-ans{
+  display: none;
+}
+#Nan-ans{
+  display: none;
+}
+#Escape-ans{
+  display: none;
+}
+#Alert-ans{
+  display: none;
+}
+#Comments-ans{
+  display: none;
+}
+#Jquery-ans{
+  display: none;
+}
+#Attributes-ans{
+  display: none;
+}
